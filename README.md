@@ -1,4 +1,4 @@
-ruby-SDK
+ZenPrint-ruby-Client
 ========
 
-Ruby SDK for Zenprint REST API
+Ruby Client for Zenprint REST API
